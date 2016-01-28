@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HIPOTECAS</string>
+    <string name="lista_vacia">Nothing</string>
+    <string name="menu_crear">New</string>
+    <string name="menu_preferencias">Preferences</string>
+</resources>
